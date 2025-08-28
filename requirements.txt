@@ -1,15 +1,11 @@
-# streamlit
-# pandas
-# numpy
-# plotly
-# altair
-# matplotlib
-# python-dotenv
-# openai
-# transformers
-# torch
-
 streamlit
+pandas
+numpy
+plotly
+altair
+matplotlib
+python-dotenv
+openai
 transformers
 torch
-pandas
+
